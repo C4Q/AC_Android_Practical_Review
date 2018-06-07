@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DogsApp</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="what_kind_of_dog_msg">What kind of dog would you like to see, %s?</string>
+    <string name="submit">submit</string>
+    <string name="username_err_msg">enter a username, dummy</string>
+    <string name="password_err_msg">enter a password, dummy</string>
+    <string name="bad_pswrd_err_msg">that\'s a bad password, dummy</string>
+    <string name="network_err_msg">uh oh</string>
+</resources>
